@@ -76,4 +76,3 @@ while True:
 print(f"\nCustomers Served : {customers}")
 print(f"Total amount dispensed {total_amount}" )
 print("ATM Closed")
-
