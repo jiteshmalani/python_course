@@ -1,0 +1,16 @@
+import math 
+a = 2
+s = 7
+print(math.pow(a , s))
+
+print(math.gcd(a , s))
+
+print(math.lcm(a , s))
+
+print(math.ceil(4.1))
+
+print(math.floor(4.1))
+
+print(math.copysign(a , s))
+
+print(math.fabs(-2))
