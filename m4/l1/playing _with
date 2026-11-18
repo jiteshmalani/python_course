@@ -1,0 +1,14 @@
+lst = [1 , 4 , 9 , 3]
+s = sum(lst) 
+l = len(lst)
+avg = s/l
+print(avg)
+
+
+
+
+
+
+
+
+
